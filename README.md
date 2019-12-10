@@ -69,9 +69,6 @@ https://github.com/smicallef/spiderfoot
 https://github.com/vaguileradiaz/tinfoleak  
   
   
-  
-  
-  
 **Instaloader** downloads public and private profiles, hashtags, user stories, feeds and saved media, downloads comments, geotags and captions of each post, automatically detects profile name changes and renames the target directory accordingly, allows fine-grained customization of filters and where to store downloaded media.  
   
 https://github.com/instaloader/instaloader  
@@ -154,11 +151,7 @@ geOSINT is a script that searches for geotagged photos on social media and plots
  
  **INSTAGRAM LOCATION**  https://github.com/PaulSec/API-InstagramLocation  
  
- 
- 
-
- 
-**email2phonenumber** 
+ **email2phonenumber** 
  
 This tool helps automate discovering someone's phone number by abusing password reset design weaknesses and publicly available data. It supports 3 main functions: 
 •	"scrape" - scrapes websites for phone number digits by initiating password reset using the target's email address 
@@ -217,7 +210,9 @@ https://github.com/kevthehermit/PasteHunter/
 
 **Snooper** 
 OSINT Reddit user activity analyzer https://github.com/NicholasDollick/Snooper 
-POCKINT	 (a.k.a. Pocket Intelligence) is the OSINT swiss army knife for DFIR/OSINT professionals. 
+
+
+**POCKINT**	 (a.k.a. Pocket Intelligence) is the OSINT swiss army knife for DFIR/OSINT professionals. 
 Designed to be a lightweight and portable GUI program (to be carried within USBs or investigation 
 VMs), it provides users with essential OSINT capabilities in a compact form factor: POCKINT's input box accepts typical indicators (URL, IP, MD5) and gives users the ability to perform basic OSINT data mining tasks in an iterable manner. 
 https://github.com/netevert/pockint 
@@ -227,7 +222,8 @@ https://github.com/MikeMeliz/TorCrawl.py linkedin2username
  
 **OSINT Tool**: Generate username lists from companies on LinkedIn. 
 https://github.com/initstring/linkedin2username 
-TORBOT 
+
+**TORBOT** 
 1.	Onion Crawler (.onion).(Completed) 
 2.	Returns Page title and address with a short description about the site.(Partially Completed) 
 3.	Save links to database.(PR to be reviewed) 
@@ -237,11 +233,13 @@ TORBOT
 7.	Check if the link is live.(Completed) 
 8.	Built-in Updater.(Completed) 
 9.	TorBot GUI(see branch front_end) 
-10.	Social Media integration.(not Started) ...(will be updated) https://github.com/DedSecInside/TorBot 
+10.	Social Media integration.(not Started) ...(will be updated) 
+https://github.com/DedSecInside/TorBot 
  
 **ODIN**	 aims to automate the basic recon tasks used by red teams to discover and collect data on	 
 network assets, including domains, IP addresses, and internet-facing systems. The key feature of 
-ODIN is the data management and reporting. The data is organized in a database and then, optionally, that database can be converted into an HTML report or a Neo4j graph database for visualizing the data. https://github.com/chrismaddalena/ODIN 
+ODIN is the data management and reporting. The data is organized in a database and then, optionally, that database can be converted into an HTML report or a Neo4j graph database for visualizing the data.
+https://github.com/chrismaddalena/ODIN 
 
 **R3con1z3r**	 is a lightweight Web information gathering tool with an intuitive features written in python. it 
 provides a powerful environment in which open source intelligence (OSINT) web-based footprinting can 
@@ -447,6 +445,17 @@ https://github.com/michenriksen/birdwatcher
 **OSINT Graphical Analyzer (YOGA)**
 Your OSINT Graphical Analyzer (YOGA) is a project to help people understand different courses of action to take based upon the data they have. Have a username? Click on it and review the attached/connected nodes for possible actions.
 https://github.com/WebBreacher/yoga
+
+**Recon Cat**
+A small Php application to fetch archive url snapshots from archive.org.
+using it you can fetch complete list of snapshot urls of any year or complete list of all years possible.
+https://github.com/daudmalik06/ReconCat
+
+**Seeker**
+Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on thewhiteh4t's Blog .
+Seeker Hosts a fake website on In Built PHP Server and uses Serveo to generate a link which we will forward to the target
+https://github.com/thewhiteh4t/seeker
+
 
 **Carbon14**
 OSINT tool for estimating when a web page was written
